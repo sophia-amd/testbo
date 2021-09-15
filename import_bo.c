@@ -1,5 +1,5 @@
 /*
- * import bo in child process
+ * import bo in server process
  *
  * Copyright 2021
  *
