@@ -1,5 +1,5 @@
 /*
- * export bo in parent process
+ * export bo in client process
  *
  * Copyright 2021
  *
