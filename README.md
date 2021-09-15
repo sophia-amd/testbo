@@ -10,4 +10,4 @@ To compile:
 
 To test:
 1. sudo ./import_bo
-2. sudo ./export_bo (export_bo will draw a red rectangle)
+2. sudo ./export_bo (import_bo will draw a red rectangle)
